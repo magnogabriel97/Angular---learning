@@ -21,5 +21,12 @@ export class AppComponent {
       anoLancamento: 1995,
       poster: 'https://br.web.img2.acsta.net/c_310_420/pictures/210/124/21012465_2013061319170245.jpg'
     },
+    {
+      titulo: 'Duna',
+      sinopse:
+        'Paul Atreides é um jovem brilhante, dono de um destino além de sua compreensão. Ele deve viajar para o planeta mais perigoso do universo para garantir o futuro de seu povo.',
+      anoLancamento: 2021,
+      poster: 'https://i0.wp.com/www.arrobanerd.com.br/wp-content/uploads/2021/09/dune.jpeg?resize=640%2C948&ssl=1'
+    }
   ];
 }
